@@ -1,0 +1,21 @@
+#output{
+    border-radius:50px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top: 10px blue solid;
+    background-color:cyan;
+    padding:10px;
+    float:none;
+    text-align:left;
+}
+body{
+    background-image:linear-gradient(blue,rgb(94, 154, 245),cyan)
+}
+h1{
+    color:white;
+}
+p{
+    color:cyan;
+    font-size:30px;
+    font-family: cursive;
+}
